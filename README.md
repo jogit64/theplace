@@ -2,15 +2,13 @@
 
 ## Description générale du projet
 
-()
-
 ## Fonctionnalités actuelles
 
-- ()
+-
 
 ## Fonctionnalités prévues
 
-- ()
+-
 
 ## Dépendances et exigences système
 
@@ -32,12 +30,6 @@
 
 ## Instructions d'installation et d'utilisation
 
-1. (Étape 1)
-2. (Étape 2)
-3. (Étape 3)
-
 ## Informations sur la licence et la contribution
 
 Ce projet est sous licence MIT. Pour plus d'informations, consultez le fichier [LICENSE](LICENSE) dans ce dépôt.
-
-()
