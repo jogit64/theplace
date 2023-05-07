@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803553950212",
+    "project_id": "the-place-d595b",
+    "storage_bucket": "the-place-d595b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803553950212:android:27dc12849019f4dc361351",
+        "android_client_info": {
+          "package_name": "com.souda.theplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803553950212-3mvrocdh6sr2bqanaf7sfknq2h3e0a36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc4eCcWcOnD-X4gXWo4eIpVizI1rkfYQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803553950212-3mvrocdh6sr2bqanaf7sfknq2h3e0a36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
