@@ -39,8 +39,11 @@ const HomeScreen = ({ navigation, route }) => {
         <Text style={AppStyle.buttonText}>Tirer au sort des souvenirs</Text>
       </TouchableOpacity>
 
-      <TouchableOpacity style={AppStyle.buttonBlack} onPress={handleSignOut}>
-        <Text style={AppStyle.buttonText}>Se déconnecter</Text>
+      <TouchableOpacity
+        style={AppStyle.buttonDeconnect}
+        onPress={handleSignOut}
+      >
+        <Text style={AppStyle.buttonDeconnectText}>Se déconnecter</Text>
       </TouchableOpacity>
     </View>
   );

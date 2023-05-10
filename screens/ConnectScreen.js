@@ -20,6 +20,7 @@ const ConnectScreen = ({ navigation }) => {
   const [password, setPassword] = useState("");
 
   const handleLogin = async () => {
+    git;
     try {
       const auth = getAuth();
       await signInWithEmailAndPassword(auth, email, password);

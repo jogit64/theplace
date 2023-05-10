@@ -3,20 +3,20 @@ import { StyleSheet } from "react-native";
 const AppStyle = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#1c1c1c",
+    backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",
   },
 
   title: {
-    color: "white",
+    color: "black",
     fontSize: 24,
     fontWeight: "bold",
     marginBottom: 20,
   },
 
   sstitle: {
-    color: "#ffffff",
+    color: "black",
     fontSize: 18,
     marginBottom: 20,
   },
@@ -30,7 +30,7 @@ const AppStyle = StyleSheet.create({
     marginBottom: 20,
   },
 
-  buttonBlack: {
+  buttonDeconnect: {
     paddingHorizontal: 15,
     paddingVertical: 10,
     borderRadius: 5,
@@ -52,6 +52,12 @@ const AppStyle = StyleSheet.create({
 
   buttonText: {
     color: "#ffffff",
+    fontSize: 16,
+    fontWeight: "bold",
+    textAlign: "center",
+  },
+  buttonDeconnectText: {
+    color: "black",
     fontSize: 16,
     fontWeight: "bold",
     textAlign: "center",
